@@ -5,4 +5,5 @@
 5- git commit -m "first commit"
 6- git branch -M main
 7- git remote add origin git@github.com:hassan-kamel/Git-Github-Labs.git
-8- git push -u origin main
+8- git push -u origin main             [❌]
+8- git push --set-upstream origin main [✅]
